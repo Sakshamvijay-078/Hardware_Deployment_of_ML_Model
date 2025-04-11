@@ -93,9 +93,7 @@ This made IEEE 754 a more robust choice for real-time ML inference on hardware.
 
 ## 📈 Future Work
 
-- Further optimize SVR model for better hardware mapping
-- Explore fixed-point arithmetic for energy-efficient deployment
-- Expand model support (e.g., logistic regression, decision trees)
+- Expand model support (e.g., logistic regression, decision trees) with best accuracy possible 
 
 ---
 
