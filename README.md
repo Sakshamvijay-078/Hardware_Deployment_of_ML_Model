@@ -80,7 +80,7 @@ This made IEEE 754 a more robust choice for real-time ML inference on hardware.
 | Mode              | R²      | MAE         | MSE               | RMSE        | Time Taken  |
 |-------------------|---------|-------------|-------------------|-------------|-------------|
 | Python (Software) | 0.9212  | 81305.2330  | 10100187858.8633  | 100499.6908 | 0.002s      |
-| FPGA (Hardware)   | -0.8681 | 384304.2154 | 239363200159.3078 | 489247.5857 | 0.001s      |
+| FPGA (Hardware)   | 0.9176  | 80404.6486  | 10078531354.5244  | 100391.8888 | 0.001s      |
 
 -For **Support Vector Regresssion** 
 
